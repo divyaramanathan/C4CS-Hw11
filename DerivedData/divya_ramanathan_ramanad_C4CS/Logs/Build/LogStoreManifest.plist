@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>4C613D69-C8D3-4982-83A6-1E04D1A3EAF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C613D69-C8D3-4982-83A6-1E04D1A3EAF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>divya_ramanathan_ramanad_C4CS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>divya_ramanathan_ramanad_C4CS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build divya_ramanathan_ramanad_C4CS</string>
+			<key>timeStartedRecording</key>
+			<real>564622036.80605602</real>
+			<key>timeStoppedRecording</key>
+			<real>564622037.49543202</real>
+			<key>title</key>
+			<string>Build divya_ramanathan_ramanad_C4CS</string>
+			<key>uniqueIdentifier</key>
+			<string>4C613D69-C8D3-4982-83A6-1E04D1A3EAF5</string>
+		</dict>
+		<key>E542CF8F-E5E4-4982-98F0-AEE1B5E33830</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E542CF8F-E5E4-4982-98F0-AEE1B5E33830.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>divya_ramanathan_ramanad_C4CS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>divya_ramanathan_ramanad_C4CS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build divya_ramanathan_ramanad_C4CS</string>
+			<key>timeStartedRecording</key>
+			<real>564621741.98308599</real>
+			<key>timeStoppedRecording</key>
+			<real>564621746.16301501</real>
+			<key>title</key>
+			<string>Build divya_ramanathan_ramanad_C4CS</string>
+			<key>uniqueIdentifier</key>
+			<string>E542CF8F-E5E4-4982-98F0-AEE1B5E33830</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
